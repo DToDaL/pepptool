@@ -1,7 +1,7 @@
 Status=Active
 iSynthL=1
-Date=20.06.2023
-Time=16:20
+Date=04.07.2023
+Time=12:20
 Programs={overwatch.exe;calc.exe;notepad.exe}
 URLS={giphy.com;discord.com}
 UpURL=https://www.example.com/test.exe
