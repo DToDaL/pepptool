@@ -1,6 +1,6 @@
 Status=Active
 iSynthL=1
-Date=04.07.2023
+Date=05.07.2023
 Time=12:20
 Programs={overwatch.exe;calc.exe;notepad.exe}
 URLS={giphy.com;discord.com}
